@@ -2,10 +2,8 @@
   font-family: "itc-avant-garde-gothic-pro";
   src: url("./ITCBk.eot");
   src: url("./ITCBk.eot#iefix") format("embedded-opentype"),
-    url("./ITCBk.eot.svg") format("svg"),
-    url("./ITCBk.eot.ttf") format("truetype"),
-    url("./ITCBk.eot.woff") format("woff"),
-    url("./ITCBk.eot.woff2") format("woff2");
+    url("./ITCBk.svg") format("svg"), url("./ITCBk.ttf") format("truetype"),
+    url("./ITCBk.woff") format("woff"), url("./ITCBk.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
 }
