@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "itc-avant-garde-gothic-pro";
+  src: url("./ITCBk.eot");
+  src: url("./ITCBk.eot#iefix") format("embedded-opentype"),
+    url("./ITCBk.eot.svg") format("svg"),
+    url("./ITCBk.eot.ttf") format("truetype"),
+    url("./ITCBk.eot.woff") format("woff"),
+    url("./ITCBk.eot.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "itc-avant-garde-gothic-pro";
+  src: url("./ITCBkBold.eot");
+  src: url("./ITCBkBold.eot?#iefix") format("embedded-opentype"),
+    url("./ITCBkBold.svg#ITCBkBold") format("svg"),
+    url("./ITCBkBold..ttf") format("truetype"),
+    url("./ITCBkBold.woff") format("woff"),
+    url("./ITCBkBold.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+}
