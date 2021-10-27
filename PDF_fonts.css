@@ -15,7 +15,7 @@
   src: url("./ITCBkBold.eot");
   src: url("./ITCBkBold.eot?#iefix") format("embedded-opentype"),
     url("./ITCBkBold.svg#ITCBkBold") format("svg"),
-    url("./ITCBkBold..ttf") format("truetype"),
+    url("./ITCBkBold.ttf") format("truetype"),
     url("./ITCBkBold.woff") format("woff"),
     url("./ITCBkBold.woff2") format("woff2");
   font-weight: 500;
